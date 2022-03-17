@@ -355,12 +355,12 @@ input:focus, #occupation:focus{
       padding: 1.2rem 4rem;
   }
   .contact{
-      height: 620px;
+      height: 700px;
       display: block;
   }
   .footer-container{
         grid-template-columns: repeat(2, 1fr);
-        row-gap: 1rem;
+        row-gap: 2rem;
     }
 }
 
@@ -429,8 +429,8 @@ input:focus, #occupation:focus{
     }
     .logo h3{
         margin-right: 5rem;
-        font-size: 5rem;
-        font-weight: 600;
+        font-size: 3rem;
+        font-weight: 300;
     }
     .footer-container{
         grid-template-columns: repeat(2, 1fr);
